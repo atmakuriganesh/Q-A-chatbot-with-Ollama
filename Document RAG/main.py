@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from langchain_groq import ChatGroq
+from langchain_community import ChatGroq 
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter

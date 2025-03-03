@@ -25,3 +25,8 @@ langchain-groq
 langchain_groq
 sse_starlette
 langchain_huggingface
+arxiv
+wikipedia
+duckduckgo-search
+mysql-connector-python
+SQLAlchemy

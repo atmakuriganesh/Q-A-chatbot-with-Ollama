@@ -37,3 +37,5 @@ pytube
 numexpr
 huggingface_hub
 gradio
+langchain_nvidia_ai_endpoints
+pypdf
